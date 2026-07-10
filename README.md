@@ -72,7 +72,7 @@ cd ai-hologram-login-ui
 Open `index.html` in your browser.
 
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 *  Firebase Authentication
 *  Dark / Light Theme Toggle
